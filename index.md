@@ -1,14 +1,6 @@
 ---
-title: Enggaarden – Naturpleje & Fjerkræavl
+title: Enggaarden – for naturen
 layout: template
 ---
 
-# Velkommen til Enggaarden
-
-Vi tilbyder bæredygtig naturpleje og opdræt af sunde fjerkræ i hjertet af Danmark.
-
-- Økologisk drift
-- Fokus på dyrevelfærd
-- Salg af kyllinger
-
-Kontakt os for mere information
+<img src="logo.jpg" alt="Enggaarden" style="width:100vw; height:100vh; object-fit:cover;" />
