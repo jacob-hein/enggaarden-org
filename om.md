@@ -5,6 +5,6 @@ layout: template
 
 # Om Enggaarden
 
-Enggaarden på Djursland er et boliglandbrug for naturen, biodiversitet og sunde dyr. Vi kombinerer traditionelle metoder med moderne viden for at skabe et bæredygtigt landbrug.
+Enggaarden på Djursland er et boliglandbrug for naturen, biodiversitet og sunde dyr.
 
 ![Enggaarden](IMG_3376.jpeg)
